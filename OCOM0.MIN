@@ -1,0 +1,7 @@
+(OCOM0)
+PUT '{"partNumber":'
+PUT '"AA96128",'
+PUT '"CNC":"92"}'
+WRITE 0
+M02
+
